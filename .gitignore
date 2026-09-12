@@ -1,0 +1,11 @@
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+ml/data/
+ml/artifacts/*.pt
+ledger/artifacts/
+ledger/cache/
+node.log
+api.log
+.env
